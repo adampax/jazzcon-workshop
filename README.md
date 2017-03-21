@@ -1,1 +1,1 @@
-# ngnl-workshop
+# jazzcon-workshop
